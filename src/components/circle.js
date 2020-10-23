@@ -1,6 +1,6 @@
-// import 
+// import using require
 
 // declare class
 
 
-// export
+// export class using module.exports

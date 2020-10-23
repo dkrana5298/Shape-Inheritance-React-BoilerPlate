@@ -1,3 +1,3 @@
 // declare class
 
-// export class
+// export class using module.exports
